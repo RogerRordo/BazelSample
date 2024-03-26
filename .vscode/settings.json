@@ -1,0 +1,15 @@
+{
+    // Common
+    "search.exclude": {
+      "bazel-*/": true
+    },
+  
+    // Python
+    "[python]": {
+      "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "python.analysis.extraPaths": [".protobuf_output"]
+  
+    // Others
+  }
+  

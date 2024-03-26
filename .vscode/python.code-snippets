@@ -1,0 +1,11 @@
+{
+    "Copyright Header (Python)": {
+      "prefix": "copyright",
+      "body": [
+        "# Copyright $CURRENT_YEAR the $WORKSPACE_NAME project authors. All rights reserved.",
+        "# Authors: luozhuofeng@gmail.com (Zhuofeng Luo)"
+      ],
+      "description": "Add copyright header (Python)"
+    }
+  }
+  

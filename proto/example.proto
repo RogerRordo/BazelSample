@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package proto.example;
+
+// Next Id: 2
+message Foo {
+  // Next Id: 3
+  message Bar {
+    optional int32 baz_a = 1;
+    optional int32 baz_b = 2;
+  }
+
+  optional Bar bar = 1;
+}

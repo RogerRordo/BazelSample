@@ -1,0 +1,15 @@
+line-length = 100
+
+[lint]
+select = [
+    "F", # pyflakes
+    "E", # pycodestyle errors
+    "W", # pycodestyle warnings
+    "B", # flake8-bugbear
+]
+
+# Avoid enforcing line-length violations (`E501`)
+ignore = ["E501"]
+
+[format]
+quote-style = "single"

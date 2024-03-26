@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+      "bazelbuild.vscode-bazel",
+      "charliermarsh.ruff",
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "ms-python.debugpy",
+      "ms-python.mypy-type-checker",
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "njpwerner.autodocstring",
+      "streetsidesoftware.code-spell-checker",
+      "tamasfe.even-better-toml",
+      "zxh404.vscode-proto3"
+    ]
+  }
+  
